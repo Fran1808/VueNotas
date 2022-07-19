@@ -1,6 +1,6 @@
 <template>
     <footer id="footer">
-        <p>Pie de pagina</p>
+        <p>Pie de pagina 2</p>
     </footer>
 </template>
 
