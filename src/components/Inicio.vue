@@ -43,6 +43,7 @@
         padding-top: 380px;
         text-align: center;
         width: 80%;
+        height: 600px;
         margin: 0 auto;
         font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
     }
