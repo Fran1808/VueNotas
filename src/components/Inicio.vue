@@ -9,10 +9,10 @@
         <div class="div2">
             <img src="../assets/nota.png" alt="nota" style="height: 100%; width: 100%;">
         </div>
-        <div class="info">
-            <p>Recibe ventajas exclusivas, nuevas opciones y más con un perfil premium, Organiza y usa tu imagen sin límites!</p>
-        </div>
-    </div>
+    </div>  
+    <div class="info">
+        <p>Recibe ventajas exclusivas, nuevas opciones y más con un perfil premium, Organiza y usa tu imagen sin límites!</p>
+    </div> 
 </template>
 
 <script>
@@ -39,5 +39,11 @@
         padding-top: 75px;
         font-size: xx-large;
     }
-    
+    .info{
+        padding-top: 380px;
+        text-align: center;
+        width: 80%;
+        margin: 0 auto;
+        font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    }
 </style>
